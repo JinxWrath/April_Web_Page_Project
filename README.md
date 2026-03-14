@@ -1,7 +1,7 @@
-# Update 3/7/2026
+# Update 3/14/2026
 
-I removed some of the icons that would lead to a Facebook/Twitter/Other social media sites and left only my email and GitHub. I also made sure the icons now linked to said sites/emails
+Further edited the Resume section of the site to lead to my actual resume.
 
-I also edited the Portfolio section to have stuff listed there and link to a placeholder resume
+I have also got the message section at the end of the site working by using Formspree to help me recieve messages.
 
 [Web Link](https://jinxwrath.github.io/April_Web_Page_Project/)
